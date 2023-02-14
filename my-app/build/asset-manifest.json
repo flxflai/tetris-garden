@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tetris-garden/static/css/main.31d6cfe0.css",
+    "main.js": "/tetris-garden/static/js/main.9eb53cb3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/tetris-garden/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/tetris-garden/index.html",
+    "main.9eb53cb3.js.map": "/tetris-garden/static/js/main.9eb53cb3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/tetris-garden/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.9eb53cb3.js"
+  ]
+}
